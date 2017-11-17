@@ -1,1 +1,1 @@
-web: flower --auth_provider=flower.views.auth.GithubLoginHandler --port=$PORT --broker=$BROKER_URL --persistent=true
+web: flower --auth_provider=flower.views.auth.GithubLoginHandler --port=$PORT --broker=$BROKER_URL --persistent=true --auth=$AUTH
