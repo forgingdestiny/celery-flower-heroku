@@ -10,6 +10,6 @@ kombu==4.1.0
 pytz==2017.3
 redis==2.10.6
 singledispatch==3.4.0.3
-six==1.11.0
+six==1.13.0
 tornado==4.5.2
 vine==1.1.4
